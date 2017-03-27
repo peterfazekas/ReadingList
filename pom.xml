@@ -56,7 +56,6 @@
 			<artifactId>spring-boot-starter-log4j</artifactId>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
